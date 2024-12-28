@@ -15,7 +15,9 @@ Welcome to the Chatbot Application repository! This project is a simple and inte
 ## Technologies Used
 
 Frontend: HTML, CSS, JavaScript
+
 Backend: Node.js, Express.js
+
 API: OpenAI API
 
 ---
